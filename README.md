@@ -8,4 +8,6 @@
 
 
 ## Additional Ai Tools
-<img src="./images/eluna-ai-logo.png" /> [eluna.ai Tools](https://www.eluna.ai/tools)
+<a href="https://www.eluna.ai/tools" target="_blank"><img style="height: 50px;" src="./eluna-ai-logo.png" /></a>
+
+https://www.eluna.ai/tools
