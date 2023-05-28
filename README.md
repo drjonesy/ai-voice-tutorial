@@ -1,5 +1,8 @@
 # Ai Voice Tutorial
 
+## Pre-Setup
+Install Anaconda
+
 ## So-Vits-SVC  
 
 1. [Local Setup Instruction](https://www.youtube.com/watch?v=4DT92oHJ_p4)
