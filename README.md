@@ -1,7 +1,9 @@
 # Ai Voice Tutorial
 
 ## Pre-Setup
-Install Anaconda
+1. Install Anaconda
+
+<a href="https://www.anaconda.com/" target="_blank"><img style="height: 50px;" src="./anaconda-logo.png" /></a>
 
 ## So-Vits-SVC  
 
@@ -14,3 +16,17 @@ Install Anaconda
 <a href="https://www.eluna.ai/tools" target="_blank"><img style="height: 50px;" src="./eluna-ai-logo.png" /></a>
 
 https://www.eluna.ai/tools
+
+
+#### SoftVC VITS Singing Voice Conversion Fork
+
+https://github.com/voicepaw/so-vits-svc-fork
+
+
+#### Audio Slicer
+
+https://github.com/flutydeer/audio-slicer
+
+
+#### Uber Duck
+<a href="https://uberduck.ai/" target="_blank"><img style="height: 50px;" src="./uberduck-logo.png" /></a>
