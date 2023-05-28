@@ -29,4 +29,4 @@ https://github.com/flutydeer/audio-slicer
 
 
 #### Uber Duck
-<a href="https://uberduck.ai/" target="_blank"><img style="height: 50px;" src="./uberduck-logo.png" /></a>
+<a href="https://uberduck.ai/" target="_blank"><img style="height: 50px;" src="./uberduck-logo-v2.png" /></a>
